@@ -1,0 +1,6 @@
+# ninja log v5
+7	730	6799510138671850	CMakeFiles/SDL_Maze.dir/Node.cpp.obj	1c1de80c3ce661a5
+1	847	6799510139768518	CMakeFiles/SDL_Maze.dir/main.cpp.obj	fa8ddd6f2c30b283
+22	860	6799510139958015	CMakeFiles/SDL_Maze.dir/Texture.cpp.obj	a2ffa7e842959025
+12	919	6799510140556411	CMakeFiles/SDL_Maze.dir/Maze.cpp.obj	c8416f1f8996beec
+922	1818	6799510148575948	SDL_Maze.exe	6733fb9b928b51b6
