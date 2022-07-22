@@ -1,3 +1,0 @@
-C:/Users/guizo/CLionProjects/SDL_Maze/build/CMakeFiles/SDL_Maze.dir
-C:/Users/guizo/CLionProjects/SDL_Maze/build/CMakeFiles/edit_cache.dir
-C:/Users/guizo/CLionProjects/SDL_Maze/build/CMakeFiles/rebuild_cache.dir
