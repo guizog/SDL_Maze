@@ -3,7 +3,6 @@
 #include "Maze.h"
 
 void Init(const char*, int, int, int, int);
-void HandleEvents();
 
 SDL_Renderer* renderer;
 SDL_Window* window;
@@ -45,13 +44,3 @@ void Init(const char *title, int xpos, int ypos, int width, int height) {
     }
 }
 
-void HandleEvents(){
-    SDL_Event event;
-    SDL_PollEvent(&event);
-    switch(event.type){
-        case SDL_QUIT:
-            break;
-        default:
-            break;
-    }
-}
